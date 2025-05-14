@@ -5,7 +5,7 @@ import plotly.express as px
 st.set_page_config(
     page_title="Shortfall Surplus KPP Pratama Biak", layout="wide")
 st.title("📊 Shortfall Surplus KPP 954")
-st.markdown("sumber: MPN Info last updated on Aprill, 30 2025")
+st.markdown("sumber: MPN Info last updated on May, 14 2025")
 
 # Load the Excel file directly from your local directory
 # Update this with the correct file path if needed
